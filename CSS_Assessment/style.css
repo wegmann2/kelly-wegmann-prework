@@ -1,0 +1,41 @@
+/**
+ * CSS_Assessment
+ **/
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {background: white;
+
+  }
+  
+  header { color: black; 
+    background: grey;
+    clear: both; margin-bottom: 40px;
+}
+section {padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+  }
+  
+  #left {float: left;
+    width: 50%; height:350px; 
+    color: black;
+    background: blue; margin-right: 80px; 
+    margin-bottom: 8%; padding-top: 150px; 
+  }
+ 
+  #right{float: left;
+    width: 21%;
+    color: black;
+    background: red;
+    height: 350px; float: right;
+    margin-bottom: 8%; padding-top:150px;
+
+  }
+  
+footer {color: black; background: green;
+clear: both }
+    
